@@ -162,7 +162,9 @@ a:visited {
 #diane-vu-card {
  background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
 }
-
+#joe-parker-card {
+ background-image: url("https://learn-verified.s3.amazonaws.com/diane-vu.jpg");
+}
 .view-profile-div {
   position: absolute;
   bottom: 0;
